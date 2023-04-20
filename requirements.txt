@@ -1,4 +1,5 @@
 flask
+flask[async]
 pyrogram
 TgCrypto
 gunicorn
