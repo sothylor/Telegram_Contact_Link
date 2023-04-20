@@ -7,6 +7,8 @@ authors = ["Replit user <<>>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 Flask = "^2.2.3"
+Pyrogram = "^2.0.103"
+hypercorn = "^0.14.3"
 
 [tool.poetry.dev-dependencies]
 
